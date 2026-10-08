@@ -1,1 +1,1 @@
-# ShowBox-Movie-Scheduling-Ticketing-Foundation
+# ShowBox-Movie-Scheduling-and-Ticketing-Foundation
